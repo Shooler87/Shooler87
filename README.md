@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @Shooler87
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ... - triple dots is life!
-
-<!---
-Shooler87/Shooler87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in triple dots
+- 🌱 I’m currently learning triple dots
+- 💞️ I’m looking to collaborate on triple dots
+- 📫 How to reach me? By triple dots
+- ... - triple dots is life!\r\n
